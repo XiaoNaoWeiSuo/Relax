@@ -1,0 +1,25 @@
+"filename", "language", "Dart", "Markdown", "YAML", "Java Properties", "XML", "Gradle", "Python", "comment", "blank", "total"
+"c:\Users\35170\Desktop\+\Flutter\relax\README.md", "Markdown", 0, 10, 0, 0, 0, 0, 0, 0, 7, 17
+"c:\Users\35170\Desktop\+\Flutter\relax\analysis_options.yaml", "YAML", 0, 0, 3, 0, 0, 0, 0, 23, 4, 30
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\build.gradle", "Gradle", 0, 0, 0, 0, 0, 54, 0, 5, 13, 72
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\debug\AndroidManifest.xml", "XML", 0, 0, 0, 0, 4, 0, 0, 4, 1, 9
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\main\AndroidManifest.xml", "XML", 0, 0, 0, 0, 35, 0, 0, 11, 3, 49
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\main\res\drawable-v21\launch_background.xml", "XML", 0, 0, 0, 0, 4, 0, 0, 7, 2, 13
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\main\res\drawable\launch_background.xml", "XML", 0, 0, 0, 0, 4, 0, 0, 7, 2, 13
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\main\res\values-night\styles.xml", "XML", 0, 0, 0, 0, 9, 0, 0, 9, 1, 19
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\main\res\values\styles.xml", "XML", 0, 0, 0, 0, 9, 0, 0, 9, 1, 19
+"c:\Users\35170\Desktop\+\Flutter\relax\android\app\src\profile\AndroidManifest.xml", "XML", 0, 0, 0, 0, 4, 0, 0, 4, 1, 9
+"c:\Users\35170\Desktop\+\Flutter\relax\android\build.gradle", "Gradle", 0, 0, 0, 0, 0, 27, 0, 0, 5, 32
+"c:\Users\35170\Desktop\+\Flutter\relax\android\gradle.properties", "Java Properties", 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"c:\Users\35170\Desktop\+\Flutter\relax\android\gradle\wrapper\gradle-wrapper.properties", "Java Properties", 0, 0, 0, 5, 0, 0, 0, 0, 1, 6
+"c:\Users\35170\Desktop\+\Flutter\relax\android\settings.gradle", "Gradle", 0, 0, 0, 0, 0, 8, 0, 0, 4, 12
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\ChatGptObject.dart", "Dart", 41, 0, 0, 0, 0, 0, 0, 9, 6, 56
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\MainPage.dart", "Dart", 139, 0, 0, 0, 0, 0, 0, 6, 10, 155
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\Pages.dart", "Dart", 548, 0, 0, 0, 0, 0, 0, 15, 19, 582
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\ReWidget.dart", "Dart", 230, 0, 0, 0, 0, 0, 0, 33, 21, 284
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\Sonpage.dart", "Dart", 257, 0, 0, 0, 0, 0, 0, 18, 11, 286
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\chattest.py", "Python", 0, 0, 0, 0, 0, 0, 37, 11, 2, 50
+"c:\Users\35170\Desktop\+\Flutter\relax\lib\main.dart", "Dart", 437, 0, 0, 0, 0, 0, 0, 9, 11, 457
+"c:\Users\35170\Desktop\+\Flutter\relax\pubspec.yaml", "YAML", 0, 0, 24, 0, 0, 0, 0, 61, 13, 98
+"c:\Users\35170\Desktop\+\Flutter\relax\test\widget_test.dart", "Dart", 14, 0, 0, 0, 0, 0, 0, 10, 7, 31
+"Total", "-", 1666, 10, 27, 8, 69, 89, 37, 251, 146, 2303
