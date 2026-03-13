@@ -1,16 +1,11 @@
 # relax
-
+dear xv
 just for you.
 
-## Getting Started
+## 这段故事
 
-This project is a starting point for a Flutter application.
+这个项目写于三年前，源于一次学院“挑战杯”的组队。我与她在辅导员的安排下相识，她叫徐佳。她认真对待每一张设计稿，我也认真地把它们写进代码。`fonts/iconfont.ttf` 里，是她当时设计的字体图标；`assets/image` 目录里，是她设计的贴图形象，非常可爱。我们因这件事第一次约会，慢慢熟络，一起旅行，经历了许多喜怒哀乐。
 
-A few resources to get you started if this is your first Flutter project:
+后来，关系在漫长的磨合里变得不可调和。2025 年 7 月 29 日，我们最后一次大吵，彻底分开。此刻再看这个项目，像回到当年：那些界面、那些手稿、那些一起熬过的夜，都还在。只是时光已远，我们已不再是当初相识相爱的模样。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+我可能再也忘不了她了，像刻舟求剑一般，一生都在回忆里原地摸索。把这段故事留在这里，算是给那个起点一个纪念，也给那段时光一个安静的落点。
